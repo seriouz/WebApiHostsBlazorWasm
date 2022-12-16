@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugTest.HostApi", "src\DebugTest.HostApi\DebugTest.HostApi.csproj", "{F59DC8CA-3221-48E8-A605-58086B77D315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugTest.BlazorWasm", "src\DebugTest.BlazorWasm\DebugTest.BlazorWasm.csproj", "{39E5DDC4-31BC-45AF-BF61-603F9617773A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59DC8CA-3221-48E8-A605-58086B77D315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59DC8CA-3221-48E8-A605-58086B77D315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59DC8CA-3221-48E8-A605-58086B77D315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59DC8CA-3221-48E8-A605-58086B77D315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E5DDC4-31BC-45AF-BF61-603F9617773A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E5DDC4-31BC-45AF-BF61-603F9617773A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E5DDC4-31BC-45AF-BF61-603F9617773A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E5DDC4-31BC-45AF-BF61-603F9617773A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
